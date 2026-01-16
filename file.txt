@@ -1,3 +1,3 @@
-this line was edit
+this line has updated for anotherBranch
 the another line is added also
 this file was commited from the Branch name anotherBranch
